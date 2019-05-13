@@ -1,2 +1,5 @@
 # ML_post
-post code for ML blog
+post code for ML [blog](linchrisdeng.github.io)
+
+
+
