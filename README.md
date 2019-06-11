@@ -1,7 +1,7 @@
 # ML_post
-post code for ML [blog](http://linchrisdeng.github.io)
+Affiliated with [http://linchrisdeng.github.io](http://linchrisdeng.github.io/) post code
 
-Paste ipynb url in [nbviewer](https://nbviewer.jupyter.org/)
+Paste ipynb url in [nbviewer](https://nbviewer.jupyter.org/) to check.
 
 
 
